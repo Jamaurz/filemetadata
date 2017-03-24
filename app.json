@@ -1,0 +1,6 @@
+{
+  "name": "File Metadata Microservice",
+  "description": "A Node.js app using Express",
+  "repository": "",
+  "keywords": ["node", "express"],
+}
