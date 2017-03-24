@@ -7,4 +7,4 @@ p When I submit something, I will receive the file size in bytes within the JSON
 
 ## Heroku
 
-[https://jamaurzurlshortener.herokuapp.com/](https://jamaurzurlshortener.herokuapp.com/)
+[https://jamaurzfilemetadata.herokuapp.com/](https://jamaurzfilemetadata.herokuapp.com/)
